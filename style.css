@@ -1,0 +1,23 @@
+
+#container{
+    display: flex;
+}
+#primerAlumno{
+    width: 500px;
+    height: 200px;
+    
+}
+#segundoAlumno{
+    width: 500px;
+    height: 200px;
+    
+}
+#tercerAlumno{
+    width: 500px;
+    height: 200px;
+    
+}
+button{
+        color: chocolate;
+        background-color: beige;
+}
